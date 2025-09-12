@@ -49,6 +49,7 @@ git log                                        # Show commit history
 git remote -v                                  # Check current GitHub remote  
 git branch                                     # Show current branches  
 git branch -m new-name                         # Rename current branch  
+mm
 ```
 
 
