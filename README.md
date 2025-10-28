@@ -1,4 +1,4 @@
-Just a dummy repo to host images and some commands 
+# Just a dummy repo to host images and some commands 
 
 # Git Commands Cheat Sheet
 
